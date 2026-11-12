@@ -10,6 +10,7 @@ Primeiro recolhe-se o conhecimento, depois escrevem-se os guiões. Este reposit�
 2. [guia/o-que-funciona.md](guia/o-que-funciona.md): o que fez os scripts de agosto funcionarem e o que falhou em novembro, com números.
 3. [frameworks/README.md](frameworks/README.md): hooks, estrutura do guião, CTA e conteúdo, com a checklist de 14 pontos antes de gravar.
 4. [fontes/README.md](fontes/README.md): a matéria-prima para tirar sumo.
+6. [scripts/](scripts/): os lotes escritos. O de novembro 2026 está em [scripts/2026-11-revisao.md](scripts/2026-11-revisao.md).
 5. [guia/formato-app.md](guia/formato-app.md): como entregar os guiões na app Script Spot (importação em bulk).
 
 ## Estrutura
