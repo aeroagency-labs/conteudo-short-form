@@ -1,4 +1,4 @@
-Título: Três best-sellers com problema. As campanhas a vender um esgotado.
+Título: # Três best-sellers com problema. As campanhas a vender um esgotado.
 Categoria: AI
 Hooks:
 Esta loja online tinha anúncios ligados a um produto ESGOTADO. Há uma semana. Ninguém deu por isso.
@@ -29,7 +29,7 @@ E ninguém cruza os dois.
 Só nunca lhe fizeste a pergunta certa.
 CTA: Mostramos no ecrã como se faz esta pergunta à tua loja. Está no nosso canal de YouTube.
 
-Título: Apareceu uma linha nova nas vendas: ChatGPT
+Título: # Apareceu uma linha nova nas vendas: ChatGPT
 Categoria: AI
 Hooks:
 Fomos ver de onde vinham as vendas desta loja online. Apareceu uma linha nova: ChatGPT.
@@ -59,7 +59,7 @@ O teu cliente já a usa para decidir onde compra.
 A pergunta é se ela consegue ler a tua.
 CTA: Os cinco passos para o ChatGPT te conseguir ler estão no nosso canal de YouTube.
 
-Título: De 4 dias sem stock por mês para zero. Com uma pergunta ao Sidekick.
+Título: # De 4 dias sem stock por mês para zero. Com uma pergunta ao Sidekick.
 Categoria: AI
 Hooks:
 Esta loja online passava 4 dias por mês sem o best-seller. Agora sabe com 7 dias de avanço.
@@ -90,7 +90,7 @@ E zero dias sem stock.
 Faltava alguém lhe perguntar a coisa certa.
 CTA: Queres as perguntas certas para a tua loja? Partilhamos uma por semana no grupo de WhatsApp.
 
-Título: Pergunta genérica, resposta genérica. O erro de quem usa IA na loja.
+Título: # Pergunta genérica, resposta genérica. O erro de quem usa IA na loja.
 Categoria: AI
 Hooks:
 Experimentaste a IA na tua loja online e as respostas foram inúteis? O problema foi a pergunta.
@@ -119,14 +119,14 @@ Nenhum relatório grita isto.
 O que muda é a pergunta que lhe fazes.
 CTA: As perguntas que fazemos às lojas estão no vídeo completo, no nosso canal de YouTube.
 
-Título: Tens uma loja online e dúvidas que ninguém te responde em português?
+Título: # Tens uma loja online e dúvidas que ninguém te responde em português?
 Categoria: Youtube
 Hooks:
 Procuras como vender mais na tua loja online e só encontras gurus em inglês a vender cursos?
 Há um canal de YouTube feito só para donos de lojas online em Portugal.
 Multibanco por pagar, MB Way que a Meta não vê, portes para os Açores. Ninguém fala disto. Nós falamos.
 Os vídeos sobre e-commerce que encontras não foram feitos para o mercado português.
-Já somos mais de [5 mil] no canal. Todos com o mesmo problema: vender mais sem perder margem.
+Já somos mais de 16 mil no canal. Todos com o mesmo problema: vender mais sem perder margem.
 Tens uma dúvida sobre a tua loja online? É provável que já tenhamos um vídeo a responder.
 Script:
 [↺] Tens uma dúvida sobre a tua loja.
@@ -142,13 +142,13 @@ Um vídeo por problema.
 Os pontos que ninguém usa.
 O tracking que perde metade das vendas.
 O ChatGPT que já está a mandar clientes.
-[↺] Já somos mais de [5 mil].
-Donos de lojas com as mesmas dúvidas que tu.
+[↺] Já somos mais de 16 mil no canal.
+Com as mesmas dúvidas que tu.
 [↺] Sem cursos. Sem gurus.
 Só o que está a funcionar em Portugal, agora.
 CTA: Procura Aero Agency no YouTube e escolhe o vídeo do problema que tens hoje.
 
-Título: Queres usar o Claude no teu Shopify? Mostramos no ecrã.
+Título: # Queres usar o Claude no teu Shopify? Mostramos no ecrã.
 Categoria: Youtube
 Hooks:
 Queres aprender a usar o Claude no teu Shopify? Está no nosso canal. Passo a passo.
@@ -172,7 +172,7 @@ Para copiares e usares na tua loja.
 É um vídeo sobre a tua loja a trabalhar com menos horas tuas.
 CTA: Procura Aero Agency no YouTube. O vídeo chama-se "Deixa de abrir dashboards. Agora pergunta à loja."
 
-Título: Pusemos no YouTube o método que usamos nas auditorias
+Título: # Pusemos no YouTube o método que usamos nas auditorias
 Categoria: Youtube
 Hooks:
 Pusemos de graça no YouTube o método que usamos nas auditorias a lojas online.
@@ -196,10 +196,10 @@ E onde ver cada um no teu Google Analytics.
 Mas o método está lá. Aberto.
 CTA: Procura Aero Agency no YouTube. O vídeo é sobre as fugas de conversão no Google Analytics.
 
-Título: Mais de [5 mil] donos de lojas online já veem isto
+Título: # Mais de 16 mil subscritores. Um canal só sobre lojas online.
 Categoria: Youtube
 Hooks:
-Mais de [5 mil] donos de lojas online já seguem este canal. Ainda não és um deles?
+Mais de 16 mil pessoas já seguem este canal sobre lojas online. Ainda não és uma delas?
 Se tens uma loja online em Portugal, este é o canal de YouTube que te falta.
 Passamos o dia a trabalhar com lojas online. E filmamos o que aprendemos.
 Tracking, IA, menu, pontos, Black Friday. Um vídeo por problema. Em português.
@@ -208,8 +208,7 @@ Não vendemos cursos. Pomos no YouTube o que fazemos com lojas online todos os d
 Em inglês há mil canais de e-commerce. Para o mercado português, há este.
 Script:
 [↺] Há um canal de YouTube só para quem tem uma loja online em Portugal.
-[↺] Já são mais de [5 mil] a ver.
-Donos de lojas. Não curiosos.
+[↺] Já são mais de 16 mil subscritores.
 [↺] Lá dentro há um vídeo por problema.
 Porque é que a Meta só vê metade das vendas.
 Porque é que os pontos da tua loja ninguém usa.
@@ -221,7 +220,7 @@ Sem curso no fim.
 a tua concorrência está a aprender mais depressa do que tu.
 CTA: Procura Aero Agency no YouTube e subscreve. Sai um vídeo novo todas as semanas.
 
-Título: A garrafeira que tinha o menu na língua errada
+Título: # A garrafeira que tinha o menu na língua errada
 Categoria: Dicas Gerais
 Hooks:
 Esta garrafeira tinha ótimos vinhos e um menu que mandava os clientes embora.
@@ -253,7 +252,7 @@ Mesmos vinhos. Mesmo stock.
 Não a língua do teu armazém.
 CTA: O vídeo completo sobre como organizar o menu está no nosso canal de YouTube.
 
-Título: Antes de mudares o botão de comprar, encontra o cano
+Título: # Antes de mudares o botão de comprar, encontra o cano
 Categoria: Dicas Gerais
 Hooks:
 Já mudaste o botão de comprar da tua loja online e não aconteceu nada? A fuga não estava ali.
@@ -283,7 +282,7 @@ Só depois picas a parede.
 E uma correção de cada vez.
 CTA: Queres que sejamos nós a encontrar a fuga na tua loja? Pede a auditoria no link.
 
-Título: A mesma vela, o mesmo preço. Só mudou o momento.
+Título: # A mesma vela, o mesmo preço. Só mudou o momento.
 Categoria: Dicas Gerais
 Hooks:
 Ninguém compra o teu produto. Compra o momento que ele cria.
@@ -314,7 +313,7 @@ A revisão do carro antes das férias.
 Compra o momento que ele cria.
 CTA: O sistema completo para pores o teu produto no momento certo está no nosso canal de YouTube.
 
-Título: 60 opções, 3% compram. 6 opções, 30%.
+Título: # 60 opções, 3% compram. 6 opções, 30%.
 Categoria: Dicas Gerais
 Hooks:
 60 opções: 3% compram. 6 opções: 30% compram. Quantas tem a tua loja online?
@@ -342,7 +341,7 @@ Quatro perguntas. Num fim de semana.
 E atende mil pessoas ao mesmo tempo.
 CTA: As melhores apps para montar isto na tua loja estão num vídeo no nosso canal de YouTube.
 
-Título: 82.700 pontos. Zero usados.
+Título: # 82.700 pontos. Zero usados.
 Categoria: Dicas Gerais
 Hooks:
 82.700 pontos atribuídos. Em três meses, ninguém gastou um único.
@@ -373,7 +372,7 @@ Duas compras. Não cinco.
 Servem para trazer a segunda compra.
 CTA: O vídeo completo sobre programas de pontos que funcionam está no nosso canal de YouTube.
 
-Título: Três produtos e um desconto não é um bundle
+Título: # Três produtos e um desconto não é um bundle
 Categoria: Dicas Gerais
 Hooks:
 Juntaste três produtos, deste desconto e chamaste-lhe bundle. Isso é um saco de compras.
@@ -405,7 +404,7 @@ Não desaparece? É saco de compras.
 Não é a razão para comprar.
 CTA: O vídeo completo sobre bundles que vendem está no nosso canal de YouTube.
 
-Título: Primeiro as brasas, depois a lenha
+Título: # Primeiro as brasas, depois a lenha
 Categoria: Dicas Gerais
 Hooks:
 "O meu produto é bom, tenho recorrência. Não consigo é escalar." A resposta estava na recorrência.
@@ -435,7 +434,7 @@ E a faturação quase duplicou.
 Com o mesmo número de clientes novos.
 CTA: O sistema completo para os clientes voltarem está no nosso canal de YouTube.
 
-Título: Conduzir à noite com metade do para-brisas pintado
+Título: # Conduzir à noite com metade do para-brisas pintado
 Categoria: Server-Side
 Hooks:
 A Meta está a gerir os teus anúncios com metade do para-brisas pintado de preto.
@@ -465,7 +464,7 @@ Sem passar pelo telemóvel do cliente.
 É muito difícil conduzir a meias.
 CTA: Queres saber quanto do teu para-brisas está tapado? Pede a auditoria no link.
 
-Título: Fizeste 40 vendas ontem. A Meta diz 20.
+Título: # Fizeste 40 vendas ontem. A Meta diz 20.
 Categoria: Server-Side
 Hooks:
 Fizeste 40 vendas ontem e o Gestor de Anúncios diz 20? Não é um erro. É o tracking a morrer.
@@ -494,7 +493,7 @@ As vendas no Shopify. As vendas na Meta.
 A diferença diz-te quanto andas às cegas.
 CTA: Se a diferença for grande, pede a auditoria no link. Mostramos-te onde se perdem.
 
-Título: Os anúncios sobem 30% ao ano. Há quem sinta só 15.
+Título: # Os anúncios sobem 30% ao ano. Há quem sinta só 15.
 Categoria: Server-Side
 Hooks:
 Os anúncios ficam cerca de 30% mais caros todos os anos. Há lojas online que só sentem metade.
@@ -522,7 +521,7 @@ Mesma loja. Mesmos anúncios.
 E quem sangra menos aguenta mais tempo.
 CTA: Queres saber quanto a tua loja está a pagar a mais? Pede a auditoria no link.
 
-Título: Rejeitar cookies não tem de ser perder a venda
+Título: # Rejeitar cookies não tem de ser perder a venda
 Categoria: Server-Side
 Hooks:
 Cada vez que alguém clica em "rejeitar cookies" na tua loja online, a Meta perde-lhe o rasto.
@@ -551,7 +550,7 @@ Guarda o que aconteceu. Anónimo. Agregado.
 E deixas de perder a venda.
 CTA: O vídeo completo sobre tracking server-side está no nosso canal de YouTube.
 
-Título: A máquina não está avariada. Está obediente.
+Título: # A máquina não está avariada. Está obediente.
 Categoria: Server-Side
 Hooks:
 A Meta não sabe nada sobre o teu negócio. Nada. Só sabe o número que lhe mandas.
@@ -581,7 +580,7 @@ Sem mexer em preços.
 Agora perguntas quem te deixa mais dinheiro.
 CTA: Queres saber que campanhas te dão mesmo margem? Pede a auditoria no link.
 
-Título: O ROAS só vê a primeira compra
+Título: # O ROAS só vê a primeira compra
 Categoria: Big Query
 Hooks:
 Duas campanhas: uma com ROAS 4, outra com 2,5. No fim do ano, a pior deu mais lucro.
@@ -612,7 +611,7 @@ Não só quanto gastou no primeiro dia.
 Estavas só a comprar clientes maus mais depressa.
 CTA: Queres saber que campanhas te trazem clientes que voltam? Pede a auditoria no link.
 
-Título: 20% dos clientes fazem quase toda a margem
+Título: # 20% dos clientes fazem quase toda a margem
 Categoria: Big Query
 Hooks:
 Cerca de 20% dos teus clientes geram a maior parte da tua margem. Sabes quem são?
@@ -642,7 +641,7 @@ E entrega essa lista à Meta. Todos os dias.
 O teu algoritmo sabe quem vale mais?
 CTA: Queres saber quem são os 20% da tua loja? Pede a auditoria no link.
 
-Título: A tua lista de clientes VIP é uma fotografia parada
+Título: # A tua lista de clientes VIP é uma fotografia parada
 Categoria: Big Query
 Hooks:
 Exportaste a lista dos teus melhores clientes para a Meta há três meses? Já não serve.
@@ -669,7 +668,7 @@ Quem entra, entra. Quem sai, sai.
 se a tua definição de VIP é de há três meses.
 CTA: Queres a tua lista de melhores clientes sempre atualizada? Pede a auditoria no link.
 
-Título: 1.164 produtos a comer 61% do orçamento
+Título: # 1.164 produtos a comer 61% do orçamento
 Categoria: Big Query
 Hooks:
 Nesta loja online, 1.164 produtos comiam 61% do orçamento. E traziam 10% da receita.
@@ -700,7 +699,7 @@ mais 60% de retorno nas campanhas de Google.
 Sem gastar mais um euro.
 CTA: Queres ver os degraus do teu catálogo? Pede a auditoria no link.
 
-Título: 30% de desconto na Black Friday? Precisas de vender 4 vezes mais
+Título: # 30% de desconto na Black Friday? Precisas de vender 4 vezes mais
 Categoria: Black Friday
 Hooks:
 Se deres 30% de desconto na Black Friday, quanto tens de vender a mais só para empatar? Não é o dobro.
@@ -731,7 +730,7 @@ Com 30%, mais 300%.
 escolhe a conta.
 CTA: Queres a conta feita para os teus produtos? Comenta EMPATE e mandamos-te a ferramenta.
 
-Título: O cliente português já não compra por impulso na Black Friday
+Título: # O cliente português já não compra por impulso na Black Friday
 Categoria: Black Friday
 Hooks:
 33% dos portugueses verificam os preços antes da Black Friday. O teu desconto falso vai ser apanhado.
@@ -760,7 +759,7 @@ Se hesitar… simplifica.
 Ganha a oferta mais clara.
 CTA: Partilhamos uma dica de Black Friday por semana no grupo de WhatsApp. Link aqui.
 
-Título: O plano da tua Black Friday em 10 minutos, dentro do Claude
+Título: # O plano da tua Black Friday em 10 minutos, dentro do Claude
 Categoria: Black Friday
 Hooks:
 Pusemos o nosso método de Black Friday dentro do Claude. Dez minutos de conversa e tens o plano.
@@ -788,7 +787,7 @@ São feitas pelo nosso método.
 O Claude só conversa contigo.
 CTA: Queres ligar o conector à tua loja? Comenta PLANO e mandamos-te o acesso.
 
-Título: Pergunta ao Claude o que a tua concorrência fez na Black Friday passada
+Título: # Pergunta ao Claude o que a tua concorrência fez na Black Friday passada
 Categoria: Black Friday
 Hooks:
 A tua concorrência deixou o plano da Black Friday passada à vista de todos. O Claude vai buscá-lo.

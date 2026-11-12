@@ -1,6 +1,6 @@
 # Lote short-form de novembro 2026: revisão
 
-28 scripts em [2026-11-lote-shortform.txt](2026-11-lote-shortform.txt), prontos para "Importar em bulk" na app Script Spot (o ficheiro inteiro cola-se de uma vez). Escritos a partir do pedido em [../briefing.md](../briefing.md), seguindo [../guia/o-que-funciona.md](../guia/o-que-funciona.md) e [../frameworks/](../frameworks/README.md).
+Os títulos levam "# " no início para se distinguirem dos scripts antigos na app. 28 scripts em [2026-11-lote-shortform.txt](2026-11-lote-shortform.txt), prontos para "Importar em bulk" na app Script Spot (o ficheiro inteiro cola-se de uma vez). Escritos a partir do pedido em [../briefing.md](../briefing.md), seguindo [../guia/o-que-funciona.md](../guia/o-que-funciona.md) e [../frameworks/](../frameworks/README.md).
 
 ## Como foram escritos
 
@@ -22,7 +22,7 @@
 | 5 | Youtube | Tens uma loja online e dúvidas que ninguém te responde em português? | Posicionamento do canal | Canal |
 | 6 | Youtube | Queres usar o Claude no teu Shopify? Mostramos no ecrã. | Gancho IA em tendência, aponta para o vídeo 12 | Canal |
 | 7 | Youtube | Pusemos no YouTube o método que usamos nas auditorias | [youtube/17](../fontes/youtube/17-fugas-conversao-ga.md) | Canal |
-| 8 | Youtube | Mais de [5 mil] donos de lojas online já veem isto | Posicionamento do canal | Canal |
+| 8 | Youtube | Mais de 16 mil subscritores. Um canal só sobre lojas online. | Posicionamento do canal | Canal |
 | 9 | Dicas Gerais | A garrafeira que tinha o menu na língua errada | [youtube/08](../fontes/youtube/08-menu-cliente.md) | Canal |
 | 10 | Dicas Gerais | Antes de mudares o botão de comprar, encontra o cano | [youtube/17](../fontes/youtube/17-fugas-conversao-ga.md) | Auditoria |
 | 11 | Dicas Gerais | A mesma vela, o mesmo preço. Só mudou o momento. | [youtube/18](../fontes/youtube/18-compra-pelo-momento.md) | Canal |
@@ -48,7 +48,7 @@ Os 4 de Black Friday são 2 de dicas (25, 26) e 2 sobre o MCP (27, 28), como ped
 
 ## Antes de gravar, confirmar
 
-1. **Número do canal.** Os scripts 5 e 8 dizem "[5 mil]". Foi o número dito na reunião, mas como exemplo. Confirmar subscritores (ou views) antes de gravar e tirar os parênteses retos.
+1. **Número do canal.** Atualizado para 16 mil subscritores (confirmado a 12 nov 2026) nos scripts 5 e 8. Fala-se em subscritores e não em "donos de lojas", porque nem todos o são.
 2. **Black Friday é a 27 de novembro.** Os scripts 25 a 28 só servem se forem gravados e publicados nos próximos dias.
 3. **Acesso ao conector.** O Peak Season AI só aceita emails da lista da masterclass. Os CTAs de 25, 27 e 28 pedem um comentário e prometem o acesso: decidir se se abre o acesso a quem comentar ou se o CTA passa a "para quem esteve na masterclass".
 4. **Vídeos ainda por publicar.** Vários CTAs mandam para um vídeo do canal (menu, quiz, pontos, bundles, momento, GA, ChatGPT). Nenhum card do Basecamp tem o link; confirmar que cada um já está publicado antes de publicar o short que lhe aponta.
